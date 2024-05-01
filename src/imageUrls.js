@@ -1,0 +1,21 @@
+export const imageUrls=[
+    {391522:'https://images.pexels.com/photos/391522/pexels-photo-391522.jpeg?auto=compress&cs=tinysrgb&w=600' },
+    {1118873:'https://images.pexels.com/photos/1118873/pexels-photo-1118873.jpeg?auto=compress&cs=tinysrgb&w=600' },
+    {209831:'https://images.pexels.com/photos/209831/pexels-photo-209831.jpeg?auto=compress&cs=tinysrgb&w=600' },
+    {325185:'https://images.pexels.com/photos/325185/pexels-photo-325185.jpeg?auto=compress&cs=tinysrgb&w=600' },
+    {395196:'https://images.pexels.com/photos/395196/pexels-photo-395196.jpeg?auto=compress&cs=tinysrgb&w=600' },
+    {844297:'https://images.pexels.com/photos/844297/pexels-photo-844297.jpeg?auto=compress&cs=tinysrgb&w=600' },
+    {912364:'https://images.pexels.com/photos/912364/pexels-photo-912364.jpeg?auto=compress&cs=tinysrgb&w=600' },
+    {1028600:'https://images.pexels.com/photos/1028600/pexels-photo-1028600.jpeg?auto=compress&cs=tinysrgb&w=600' },
+    {125510:'https://images.pexels.com/photos/125510/pexels-photo-125510.jpeg?auto=compress&cs=tinysrgb&w=600' },
+    {1162251:'https://images.pexels.com/photos/1162251/pexels-photo-1162251.jpeg?auto=compress&cs=tinysrgb&w=600' },
+    {76969:'https://images.pexels.com/photos/76969/pexels-photo-76969.jpeg?auto=compress&cs=tinysrgb&w=600' },
+    {459451:'https://images.pexels.com/photos/459451/pexels-photo-459451.jpeg?auto=compress&cs=tinysrgb&w=600' },
+    {1446076:'https://images.pexels.com/photos/1446076/pexels-photo-1446076.jpeg?auto=compress&cs=tinysrgb&w=600' },
+    {108941:'https://images.pexels.com/photos/108941/pexels-photo-108941.jpeg?auto=compress&cs=tinysrgb&w=600' },
+    {108942:'https://www.shutterstock.com/image-photo/one-largest-most-beautiful-cities-600nw-1753970516.jpg' },
+    {108943:'https://www.shutterstock.com/image-photo/palma-spain-06062021-la-seu-600nw-2123739542.jpg' },
+    {108944:'https://www.shutterstock.com/image-photo/casablanca-morocco-18-january-2018-600nw-2127864800.jpg' },
+    {108945:'https://www.shutterstock.com/image-photo/dec-05-2021-dubai-uae-600nw-2128221893.jpg' },
+   ]
+ 
